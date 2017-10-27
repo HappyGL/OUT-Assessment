@@ -1,0 +1,8 @@
+C:\Users\Happy.Lekubu\Documents\Task\CSVOutTask\CSVOutTest\bin\Debug\CSVOutTest.dll
+C:\Users\Happy.Lekubu\Documents\Task\CSVOutTask\CSVOutTest\bin\Debug\CSVOutTest.pdb
+C:\Users\Happy.Lekubu\Documents\Task\CSVOutTask\CSVOutTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Happy.Lekubu\Documents\Task\CSVOutTask\CSVOutTest\obj\Debug\CSVOutTest.csprojResolveAssemblyReference.cache
+C:\Users\Happy.Lekubu\Documents\Task\CSVOutTask\CSVOutTest\obj\Debug\CSVOutTest.dll
+C:\Users\Happy.Lekubu\Documents\Task\CSVOutTask\CSVOutTest\obj\Debug\CSVOutTest.pdb
+C:\Users\Happy.Lekubu\Documents\Task\CSVOutTask\CSVOutTest\bin\Debug\CSVOutTask.exe
+C:\Users\Happy.Lekubu\Documents\Task\CSVOutTask\CSVOutTest\bin\Debug\CSVOutTask.pdb

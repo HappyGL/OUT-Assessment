@@ -1,0 +1,19 @@
+--------------Names ordered--------------------------
+Smith   2
+Owen   2
+John   1
+Jimmy   1
+James   2
+Howe   2
+Graham   2
+Clive   2
+Brown   2
+--------------Addressess--------------------------
+65 Ambling Way
+8 Crimson Rd
+12 Howard St
+102 Long Lane
+94 Roland St
+78 Short Lane
+82 Stewart St
+49 Sutherland St
